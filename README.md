@@ -1,3 +1,6 @@
+## TODO clean up and make my own page
+
+
 # LeetCode
 
 [![C++](https://github.com/EFanZh/LeetCode/actions/workflows/c++.yml/badge.svg)](https://github.com/EFanZh/LeetCode/actions/workflows/c++.yml)
